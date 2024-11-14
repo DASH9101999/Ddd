@@ -1,0 +1,5 @@
+Cython>=0.29.32
+numpy>=1.22.3
+pyprof2calltree>=1.4.5
+setuptools>=67.7.2
+yappi>=1.4.0
